@@ -5,7 +5,7 @@ Welcome to the GitHub repo of [AgeCalcAI.com](https://agecalcai.com) – a multi
 ## 🛠️ Popular Tools
 - 📅 [Age Calculator](https://agecalcai.com/age-calculator.html)
 - 🔐 [Password Generator](https://agecalcai.com/password-generator.html)
-- 🕒 [Countdown Timer](https://agecalcai.com/countdown-timer.html)
+- 🕒 [Countdown Timer](https://agecalcai.com/countdown.html)
 - 🧮 [Salary Calculator](https://agecalcai.com/salary-calculator.html)
 - 🌍 [Time Zone Converter](https://agecalcai.com/timezone-converter.html)
 - 📝 [Word Counter](https://agecalcai.com/word-counter.html)
